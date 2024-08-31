@@ -165,7 +165,8 @@ Additional places to update:
 - Utility Companies (Gas, Electric, Internet, Cellular, etc.)
 - Vehicle Title
 
-
+## Ammending your filing
+If you are like me, and indecisive, you realize halfway through the process after you filed your docs, that actually you want to tweak your name.  If thats the case, you can do that, and i had no issue tweaking it as close as one week to the hearing.  To do this you simply update [NAM102](#nam102) and [NAM107](#nam107) with the the name update you want, retitle the document `AMMENDED_NAM10x.PDF` and eFile them into the existing case.  After you complete this you will get an email confirming their acceptance.  I also confirmed with the court clerk who scheduled my hearing that they were accepted.
 
 ## References and Forms
 - Court system name change overview docs: https://www.mncourts.gov/Help-Topics/Name-Change.aspx
