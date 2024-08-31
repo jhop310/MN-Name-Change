@@ -42,7 +42,7 @@ This document is the `Application for Name Change and Other Relief`.  This cover
 This document is the `Criminal History Check Release`.  This form is included in the eFile filing, but ends up not really being used.  Instead you end up going into the Bureau of Criminal Apprehension to receive a criminal background check document. 
 
 ### NAM107
-This document is the `Proposed Order Granting Name Change`.  This form ends up being the form signed by the judge, and after being signed is what you receive as one or many certified copies for use in changing your name with the Social Security, DMV, etc.
+This document is the `Proposed Order Granting Name Change`.  This form ends up being the form signed by the judge, and after being signed is what you receive as one or many certified copies for use in changing your name with the Social Security, DMV, etc. For this doc only fill out the portions above the `IT IS ORDERED`section.  This is documented on page 2 of NAM 101 the instructions document.  
 
 Once you've filed all of the forms proceed to [Submitting via eFile](#submitting-via-efile)
 
